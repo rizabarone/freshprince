@@ -1,0 +1,23 @@
+h1 {
+	color: white;
+}
+p {
+	color:blue;
+}
+body {
+	background-color: #000000;
+	text-align: center;
+	font-family: 'Optima', sans-serif;
+}
+
+ul {
+	text-align: left;
+	font-size: 32px;
+	color:purple;
+}
+
+a {
+	float: left;
+	font-size: 36px;
+	color:white;
+}
